@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on Vionex AI Assistant.
+- 🌱 I’m currently learning CyberSecurity.
+- 🤔 I’m looking for help with Networking, Databases, and a Team for StartUp.
+- 📫 You can reach me through: biswajeetrout2006@gmail.com
+- ⚡ Fun fact: I procrastinate a lot and want to be an ethical hacker someday.
 <!--
 **biswyaa28/biswyaa28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
