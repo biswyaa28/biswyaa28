@@ -7,6 +7,8 @@ Myself Biswajeet Rout, and I'm currently enrolled in B.Tech CSE at ITM Universit
 - 🤔 I’m looking for help with Networking, Databases, and a Team for a StartUp.
 - 📫 You can reach me through: biswajeetrout2006@gmail.com
 - ⚡ Fun fact: I procrastinate a lot and want to be an ethical hacker someday.
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) /br
 <!--
 **biswyaa28/biswyaa28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
