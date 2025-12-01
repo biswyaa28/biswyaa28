@@ -8,8 +8,9 @@ Myself Biswajeet Rout, and I'm currently enrolled in B.Tech CSE at ITM Universit
 - 📫 You can reach me through: biswajeetrout2006@gmail.com
 - ⚡ Fun fact: I procrastinate a lot and want to be an ethical hacker someday.
 
-![Static Badge](https://img.shields.io/badge/Biswajeet-Rout)
-[68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d3035303530353f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c352367682d6461726b2d6d6f64652d6f6e6c79](https://github.com/user-attachments/assets/73df1f59-a26e-4501-973f-17c267015844)
+!
+[Static Badge](https://img.shields.io/badge/Biswajeet-Rout)
+![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d3035303530353f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c352367682d6461726b2d6d6f64652d6f6e6c79](https://github.com/user-attachments/assets/73df1f59-a26e-4501-973f-17c267015844)
 
 
 
